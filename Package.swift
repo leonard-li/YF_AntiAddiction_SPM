@@ -14,7 +14,7 @@ let package = Package(
     ],
     dependencies: [
         .package(
-            url: "https://github.com/leonard-li/YF_Utils_SPM.git", 
+            url: "https://github.com/leonard-li/YF_Core_SPM.git", 
             from: "1.7.8"
         )
     ],

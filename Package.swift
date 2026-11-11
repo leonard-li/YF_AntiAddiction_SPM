@@ -28,8 +28,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "YF_AntiAddiction_Binary",
-            url: "https://mvn.yifants.cn/artifactory/fineboost-spm/antiaddiction/2.6.7/YFAntiAddiction.xcframework.zip",
-            checksum: "2fbbfd606013d82346c085d1c40d63a5539dca33f3b333c47e630a0a93f5591e"
+            url: "https://mvn.yifants.cn/artifactory/fineboost-spm/antiaddiction/2.6.8/YFAntiAddiction.xcframework.zip",
+            checksum: "e39c9d2c4afb57d8f74b14701d6a84e8a4b01653743baeab8eeac90335bb2ef3"
         )
     ]
 )
